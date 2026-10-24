@@ -21,8 +21,8 @@ def delivery_report(err, msg):
 # Create an order event
 order_event = {
     "event_type": "OrderCreated",
-    "order_id": 101,
-    "customer_id": 501,
+    "order_id": 103,
+    "customer_id": 503,
     "total_amount": 2500
 }
 
